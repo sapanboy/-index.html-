@@ -26,4 +26,4 @@ A Progressive Web App (PWA) for Employee Attendance system with features like:
 - Works offline after first load
 - Fast and reliable
 
-## 📂 Project Structure
+## 📂 Project Structure                         
